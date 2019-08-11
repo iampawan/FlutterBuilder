@@ -1,0 +1,13 @@
+{
+  "name": "Container",
+  "params": {
+    "child": {
+      "name": "Text",
+      "params": {
+        "0": "Hi Pawan Kumar"
+      }
+    },
+    "color": "#Color(0xffff2dcc)",
+    "padding": "#EdgeInsets.all(16)"
+  }
+}
